@@ -1,8 +1,8 @@
 ## Lecturer: Prakash Raj sir<br>
 # DBMS
 
-Data = Raw facts
-Information = Processed data
-Database
-Management = organising
-System = Software
+Data = Raw facts<br>
+Information = Processed data<br>
+Database <br>
+Management = organising <br>
+System = Software <br>
