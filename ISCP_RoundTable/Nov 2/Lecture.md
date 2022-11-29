@@ -20,3 +20,9 @@ Entity - An entity is an object of concern in the real world. Entity need not be
 
 
 NOTE: SQL is a <b>Declarative</b> type of programming language <br>
+
+4 Major parts of SQL:
+1)DDL(Data Definition Language) (Commands: Create, Alter, Drop, Truncate)
+2)DML(Data Manipulation Language)
+3)DCL(Data Contol Language)
+4)TCL(Transaction Control Language)
