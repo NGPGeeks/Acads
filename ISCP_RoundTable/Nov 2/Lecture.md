@@ -14,4 +14,7 @@ Conceptual Level - Conceptual Schema <br>
 External Level - External View of the end user <br>
 
 Data Model: It provides a way to describe the design of a database at physical, logical and view level.<br>
+<br>
+<br>
+Entity - Any real object is an entity
            
