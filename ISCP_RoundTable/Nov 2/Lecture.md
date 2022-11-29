@@ -17,3 +17,6 @@ Data Model: It provides a way to describe the design of a database at physical, 
 <br>
 <br>
 Entity - An entity is an object of concern in the real world. Entity need not be a real object it may also represent a concept of the real world<br>
+
+
+NOTE: SQL is a <b>Declarative</b> type of programming language <br>
